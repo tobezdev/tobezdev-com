@@ -1,0 +1,12 @@
+.astro/
+.vscode/
+
+node_modules/
+.gitignore
+.prettierrc
+.prettierignore
+
+astro.config.mjs
+package.json
+package-lock.json
+tsconfig.json
